@@ -1,0 +1,54 @@
+PHASE 1: 1️⃣ Mathematics (Core)
+		2️⃣ Classical Machine Learning
+PHASE 2: Quantum Computing Fundamentals
+		3️⃣ Quantum Mechanics for Computing
+		4️⃣ Quantum Circuits & Algorithms
+PHASE 3: Quantum Programming (Hands-On)
+		5️⃣ Qiskit (Primary Skill)
+		6️⃣ Quantum Data Encoding (Critical for QML)
+PHASE 4: Quantum Machine Learning Core
+		7️⃣ Quantum ML Models
+		8️⃣ Key Quantum ML Algorithms
+PHASE 5: Error, Noise & Reality Check
+		9️⃣ NISQ Era Constraints
+PHASE 6: Advanced Topics 
+		🔟 Advanced QML Areas
+			Quantum Deep Learning
+
+			Quantum Reinforcement Learning
+
+			Quantum Graph ML
+
+			Quantum Generative Models
+
+			Quantum Natural Language Processing (QNLP)
+
+PHASE 7: Projects
+PHASE 8: Tools & Ecosystem
+PHASE 9: Career Roadmap
+
+Entry Paths:
+
+Quantum ML Engineer
+
+Research Engineer
+
+Applied Scientist (Quantum)
+
+Hybrid AI + Quantum roles
+
+Skills required:
+
+
+Python
+
+Linear Algebra
+
+ML fundamentals
+
+Qiskit / PennyLane
+
+Hybrid model experience
+
+
+	
