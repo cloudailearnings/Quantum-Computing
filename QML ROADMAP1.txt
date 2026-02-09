@@ -1,0 +1,40 @@
+If you are a student trying to enter Quantum Machine Learning (QML) in 2026?
+This is the path I’d take — step by step.
+QML sits at the intersection of physics, math, computer science, and AI.
+ That sounds intimidating — but it’s very learnable if you sequence it right.
+If I were starting today, here’s the roadmap I’d follow 
+1️⃣ Solid foundations (non-negotiable)
+ • Linear algebra (vectors, matrices, eigenvalues)
+ • Probability & statistics
+ • Python + basic ML (scikit-learn, PyTorch)
+2️⃣ Quantum basics (conceptual first, math later)
+ • Qubits, superposition, entanglement
+ • Quantum gates & circuits
+ • Measurement and noise
+ Focus on intuition, not memorisation.
+3️⃣ Hands-on quantum computing
+ • Qiskit / Cirq
+ • Run circuits on simulators first
+ • Learn how real quantum hardware behaves (and fails)
+4️⃣ Machine learning → quantum ML
+ • Kernel methods
+ • Variational algorithms
+ • Quantum feature maps
+ • Hybrid classical-quantum models
+5️⃣ Research literacy (this is where many struggle)
+ • Read 1 paper/week (even if you understand 30%)
+ • Reproduce small experiments
+ • Learn to ask: what problem does this actually solve?
+6️⃣ Pick a direction (don’t try to do everything)
+ QML for:
+ • Chemistry & materials
+ • Optimisation
+ • Finance
+ • Foundations & theory
+ • Near-term NISQ algorithms
+Key advice for students:
+ You don’t need a quantum computer in your bedroom.
+ You need strong fundamentals, patience, and consistency.
+QML in 2026 won’t reward hype — it will reward people who can bridge theory ↔ code ↔ real-world constraints.
+If you’re a student trying to break into this space:
+ You’re early. That’s a good thing.

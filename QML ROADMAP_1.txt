@@ -1,0 +1,147 @@
+🔹 Step 1: Mathematics, Python & Classical ML Foundations
+
+Before touching quantum, you must be fluent in classical ML pipelines.
+
+Core Topics
+
+Linear Algebra: vectors, matrices, eigenvalues, tensor products
+
+Probability & Statistics: distributions, expectation, variance
+
+Optimization: loss functions, gradient descent
+
+Python stack: NumPy, SciPy, Matplotlib
+
+ML frameworks: PyTorch / TensorFlow, Scikit-learn
+
+Supervised & Unsupervised Learning
+
+Regression, Classification, Overfitting, Regularization
+
+Neural Networks, CNN basics
+
+🎯 Goal: Comfortably design, train, and evaluate classical ML models.
+
+🔹 Step 2: Quantum Computing Foundations
+
+You must think in quantum circuits before doing QML.
+
+Core Topics
+
+Qubits, superposition, measurement, Bloch sphere
+
+Quantum gates & entanglement (Bell states)
+
+Quantum circuits & interference
+
+Quantum algorithms:
+
+Deutsch–Jozsa
+
+Grover’s Algorithm
+
+Quantum Fourier Transform
+
+Variational Quantum Algorithms (VQA)
+
+Tools: Qiskit / Cirq / Q# (pick one)
+
+🎯 Goal: Circuit intuition > math memorization.
+
+🔹 Step 3: Bridge from Quantum → QML
+
+This is where most learners get confused.
+
+Key Concepts
+
+Parameterized Quantum Circuits (PQC)
+
+Variational circuits
+
+Classical–quantum feedback loop
+
+Cost functions & optimization
+
+Barren plateaus
+
+Expressibility & trainability
+
+Data Perspective
+
+Quantum data → quantum model
+
+Classical data → quantum embedding
+
+Frameworks
+
+PennyLane
+
+TensorFlow Quantum
+
+Qiskit Machine Learning
+
+🎯 Goal: Understand QML as optimization over quantum parameters.
+
+🔹 Step 4: Core QML Models
+
+Now you build learning models, not just circuits.
+
+Quantum Data Encoding
+
+Angle embedding
+
+Amplitude encoding
+
+Basis encoding
+
+QML Models
+
+Variational Quantum Classifier (VQC)
+
+Quantum Neural Networks (QNN)
+
+Quantum Kernel Methods
+
+Quantum Support Vector Machines (QSVM)
+
+Data re-uploading circuits
+
+Comparisons
+
+Classical NN vs VQC
+
+Classical SVM vs Quantum Kernel
+
+🎯 Goal: Demonstrate measurable learning, not just execution.
+
+🔹 Step 5: Advanced QML Concepts (NISQ Reality)
+
+This is where research thinking starts.
+
+Advanced Topics
+
+Barren plateaus
+
+Noise-aware training
+
+Hardware-efficient ansatz
+
+Quantum Convolutional Neural Networks
+
+Quantum Autoencoders
+
+Quantum GANs (QGANs)
+
+QML for anomaly detection
+
+Constraints
+
+Noise
+
+Shot statistics
+
+Error mitigation
+
+NISQ hardware limits
+
+🎯 Goal: Understand real-world limitations and open research gaps.
