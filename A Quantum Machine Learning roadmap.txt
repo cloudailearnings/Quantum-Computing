@@ -1,0 +1,88 @@
+A Quantum Machine Learning roadmap should build three pillars in parallel:
+1)Mathematics & Classical ML foundations
+2)Quantum Computing foundations
+3)Hybrid Quantum-Classical ML implementation → Advance QML Models
+
+Think of QML as ML + Linear Algebra + Quantum Mechanics + Optimization
+
+Step 1: Mathematics, Python, ML Stack, & ML Basics
+Linear Algebra - vectors, matrices, eigenvalues, tensor products
+Probability & Statistics - distributions, expectation, variance
+Optimization - gradient descent, loss functions
+Python - NumPy, SciPy, Matplotlib
+PyTorch or TensorFlow, Scikit-learn
+Supervised, Unsupervised Learning
+Regression, Classification, Overfitting, Regularization
+Neural Networks, CNN basics
+
+Goal: You should be comfortable building classical ML pipelines
+
+Step 2: Quantum Computing Foundations
+Qubits, superposition, measurement, Bloch sphere
+Quantum gates, Entanglement and Bell states
+Quantum circuits, Interference
+Quantum Algorithms - Deutsch-Jozsa, Grover’s Algorithm, Quantum Fourier Transform, Variational Quantum Algorithms 
+Qiskit, Cirq, Q#(1 of them)
+
+Goal: You must think in circuits before doing QML
+
+Step 3: Bridge to QML
+Parameterized Quantum Circuits
+Variational circuits
+Classical-quantum feedback loop
+Cost functions
+Barren plateaus
+Expressibility & trainability
+Difference between:
+Quantum data → quantum model
+Classical data → quantum embedding
+PennyLane, TensorFlow Quantum, Qiskit ML
+
+Goal: Understand QML is optimization on quantum parameters
+
+Step 4: Core QML Models
+Quantum Data Encoding
+Angle embedding
+Amplitude encoding
+Basis encoding
+Quantum Models
+Variational Quantum Classifier
+Quantum Neural Networks
+Quantum Kernel Methods
+Quantum Support Vector Machines
+Data re-uploading circuits
+Compare:
+Classical NN vs VQC
+Classical SVM vs Quantum Kernel
+
+Goal: Show measurable learning, not just circuit execution
+
+Step 5: Advanced QML Concepts
+Barren Plateaus
+Noise-aware training
+Hardware-efficient ansatz
+Quantum Convolutional Neural Networks
+Quantum Autoencoders
+QGANs
+QML for anomaly detection
+NISQ Constraints - Noise, Shot statistics, Error mitigation
+
+Goal: You understand real-world limitations and research gaps
+
+Step 6: Research Grade QML
+Read Papers
+Schuld & Killoran (Quantum ML theory)
+Havlíček et al. (Quantum kernel methods)
+McClean et al. (Barren plateaus)
+Cerezo et al. (Variational algorithms)
+Hybrid classical-quantum architectures
+Quantum kernels vs classical kernels
+Data-efficient QML
+Noise-resilient QML
+QML benchmarking
+5–8 serious QML projects
+Implement:
+One paper reproduction
+One modification or improvement
+
+Happy Learning!
