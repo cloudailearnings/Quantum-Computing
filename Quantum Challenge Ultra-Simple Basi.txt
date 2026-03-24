@@ -1,0 +1,15 @@
+Quantum Challenge: Ultra-Simple Basics! 🚀
+Quick revision of qubit math—super easy bullets for fast learning.
+
+•Bra-Ket: |ψ⟩ = mix of |0⟩ and |1⟩. Bra ⟨ψ| is its flip.
+
+•Bit vs Qubit: Bit picks one. Qubit does both.
+
+•Superposition: Qubit in “both” states at once.
+
+hashtag#EasyMath
+•Tensor: Joins qubits: |0⟩ ⊗ |1⟩ = |01⟩.
+
+•Trace: Add diagonals, like 1+1=2.
+
+•Pauli X/Y/Z flip and spin qubits!

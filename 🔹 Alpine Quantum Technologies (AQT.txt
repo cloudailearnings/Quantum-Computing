@@ -1,0 +1,8 @@
+🔹 Alpine Quantum Technologies (AQT) – Ion-trap quantum computers
+🔹 Anyon Systems – Superconducting quantum machines
+🔹 Atlantic Quantum – Error-corrected superconducting qubits
+🔹 Atom Computing – Neutral atoms controlled by lasers
+🔹 BlueQubit – Quantum programming made easy
+🔹 Classiq – Automating quantum algorithm design
+🔹 Crypto Quantique – Quantum security for IoT
+🔹 Delft Circuits – Cryogenic hardware infrastructure

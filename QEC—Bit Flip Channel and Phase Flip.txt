@@ -1,0 +1,12 @@
+QEC—Bit Flip Channel and Phase Flip Channel 
+
+- 🎯Goal: 
+Detect and correct quantum errors (like bit flip and phase flip) by using extra qubits and entanglement
+
+- 🧪Syndrome measurement :
+ - Extra ancilla qubits + CNOTs are used to extract an error pattern called syndrome. 
+
+ - 00 → no error 
+ - 01 → error on 3rd qubit 
+ - 10 → error on 1st qubit 
+ - 11 → error on 2nd qubit.

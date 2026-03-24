@@ -1,0 +1,61 @@
+Want to break into Quantum Computing but don’t know where to start? You’re not alone and the good news is getting started is easier than you think.
+
+After 3+ years in quantum, building projects, doing research, hackathons, internships, and creating content for thousands of learners, here’s the roadmap I wish I had on Day 1. 
+
+⭐ Step 1 - Build Strong Math Foundations
+Linear Algebra, Complex Numbers, Probability
+This is 70% of the game. Don’t skip it.
+
+⭐ Step 2 - Learn Core Quantum Concepts
+• Superposition 
+• Entanglement 
+• Measurement
+Just enough physics to start coding real quantum circuits.
+
+⭐ Step 3 - Learn Python + a Quantum SDK
+• Qiskit 
+• PennyLane 
+• Cirq
+Start with simple circuits → experiment → visualize.
+
+⭐ Step 4 - Implement the Fundamental Algorithms
+• Grover’s 
+• Shor’s 
+• QFT 
+• Deutsch-Jozsa etc.
+These give you the quantum intuition no textbook alone can teach.
+
+⭐ Step 5 - Explore Advanced Areas
+Quantum Machine Learning (QML)
+ Quantum Cryptography (QKD, PQC)
+ Quantum Error Correction etc.
+Pick one track and go deep.
+
+⭐ Step 6 - Build Real Projects + Join Communities
+• Hackathons 
+• Research Internships 
+• Quantum Discords/Slack 
+• Open-source
+This is where the real growth and opportunities happen.
+
+Book Recommendations: https://lnkd.in/g5-YwnD4
+
+YouTube Recommendations: https://lnkd.in/gX_BivNJ
+
+Course Recommendations: https://lnkd.in/g9-sER3E
+
+All of these resources are more than enough to break into Quantum Computing!
+
+Let’s grow the quantum community!
+Repost, share, or tag a friend who wants to start learning quantum. The world needs more quantum ready builders.
+
+Book a 1:1 Call here - https://lnkd.in/gDj-kmYW
+
+Follow Kiran Kaur Raina here:
+📌YouTube: https://lnkd.in/gTTv2ewB
+📌Topmate: https://lnkd.in/gDj-kmYW
+📌Medium: https://lnkd.in/gWBppT7G
+📌Instagram: https://lnkd.in/g8qZKHe7
+📌Twitter/X: https://x.com/NatashiaKaur
+📌Learning Resources: https://lnkd.in/gkYGMpMZ
+For any collaborations, podcasts, online or offline events etc. feel free to reach out to me at kkaur12154@gmail.com

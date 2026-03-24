@@ -1,0 +1,57 @@
+1. Qiskit (IBM)
+2. Cirq (Google)
+3. QuTiP (Quantum simulations)
+4. Ocean SDK (D-Wave, optimisation problems)
+5. Q# (Microsoft)
+6. PennyLane (Hybrid ML + Quantum)
+7. AWS Braket SDK (Cross-platform quantum access)
+
+
+
+Tools of the Trade
+
+Last week, we discussed several tools to program and use quantum computers, each having it's own benefits. Some allows us to use hashtag#QuantumAnnealers, some for hashtag#PhotonicsQuantumComputer, while others are specifically for hashtag#GateBasedQuantumComputers.
+
+- D-Wave hashtag#Ocean: A set of open-source Python tools accessible for constructing, modifying and running quantum circuits using simulators or D-Wave's Quantum Annealers.
+- IBM Quantum hashtag#Qiskit: Qiskit is software for real work on utility-scale quantum systems. Qiskit is built for powerful executions on IBM quantum systems.
+- Xanadu hashtag#PennyLane: A Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+- Amazon hashtag#Bracket: A hashtag#CloudQuantumComputingService that helps researchers and developers use quantum computers and simulators to build quantum algorithms on AWS.
+- Microsoft Azure hashtag#Quantum: Azure Quantum is a Microsoft Azure service that you can use to run quantum computing programs problems in the cloud.
+- TensorFlow hashtag#Quantum: TensorFlow Quantum (TFQ) is a quantum machine learning library for rapid prototyping of hybrid quantum-classical ML models. It integrates quantum computing algorithms and logic designed in hashtag#Cirq, and provides quantum computing primitives compatible with existing hashtag#TensorFlow APIs.
+
+
+ Topic: First Steps in Quantum Programming with Qiskit 1.x 💻⚛️
+After two intense weeks immersed in quantum theory, I finally went hands-on—installing Qiskit 1.x and writing actual quantum circuits!
+Here’s what stood out from this phase of my journey—and some exciting new tools I’ve added to my QUcode kit:
+🔹 Hello, Qiskit!
+ ✔️ Installed the latest Qiskit 1.x
+ ✔️ Connected to IBM Quantum’s real quantum processors using my API key
+ ✔️ Celebrated with a classic “Hello World” quantum program: creating a 2-qubit Bell state
+💡 It’s incredible how a few lines of Python can generate genuine quantum entanglement. Seeing a Bell pair in action felt like watching theory crystallize into reality.
+🔹 Scaling Up, Seamlessly
+ Qiskit’s new “Primitives” (like Sampler and Estimator) simplify everything:
+Run circuits on real hardware or simulators—without backend headaches
+Get expectation values, bitstring samples, and more—just a function call away
+⚡ Whether it's 2 or 100+ qubits, Qiskit abstracts the hardware complexity beautifully.
+🔹 Dynamic Circuits: Real-Time Power
+ I explored mid-circuit measurement and real-time classical logic—a leap forward for:
+Quantum error correction
+Quantum communication protocols
+Resource-efficient gate teleportation across large circuits
+🔥 One highlight: teleporting CNOT gates between distant qubits with just a couple of smart gate layers.
+🔹 Giving Back: Open Source in Quantum
+ Qiskit is more than a tool—it’s a community.
+ I learned how to:
+Contribute via bug reports, feature requests, or even my own modules
+Join conversations around quantum standards, usability, and future tools
+💬 Being part of this open-source movement made quantum feel a little less “out there” and a lot more accessible.
+🧠 My Takeaway
+ Qiskit 1.x empowers anyone (yes, even beginners like me!) to:
+Run real quantum experiments
+Debug and test quantum code at scale
+Collaborate with a global quantum community
+✨ What once felt like “someday” dreams now feels tangible—with every line of code, I’m one step closer to real quantum applications.
+🚀 Up next: digging deeper into quantum algorithms and exploring error mitigation techniques.
+Let’s keep pushing the frontiers, one qubit at a time!
+Let’s keep pushing the frontiers, one qubit at a time!
+📺 PS: I missed today’s live session, but I’ll catch up tomorrow via the recording—no stopping the streak!
