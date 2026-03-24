@@ -1,0 +1,50 @@
+Day 1 of the Quantum Computing – Quantum Fundamentals and Advanced Algorithms Program.
+Excited to begin the Quantum Fundamentals and Advanced Algorithms program with WISER, in partnership with Qubitech, Qkrishi, and Amaravati Quantum Valley.
+Today’s session covered:
+ 🔹 The basics of qubits vs. classical bits
+ 🔹 Superposition & wavefunctions
+ 🔹 How modern quantum hardware is designed
+ 🔹 Why quantum computing represents a new paradigm in computation
+A special thanks to WISER, Qubitech, and Qkrishi—and especially the Government of Andhra Pradesh—for taking this initiative and bringing such a future-ready program to students like us. Truly grateful for this opportunity. 
+Looking forward to exploring the future of computing—one qubit at a time! 
+
+--------------------
+
+Day 2 at Quantum School was an insightful deep dive into quantum algorithms and optimization strategies.
+We explored advanced concepts like Cost Functions, Quantum Parallelism, the Bernstein–Vazirani Algorithm, and the Variational Principle — going beyond the basics and focusing on how real quantum algorithms work.
+A big thank you to Dr. Stefan Seegerer, Nadia Milazzo, and Daniel Bulmash for delivering such clear explanations and guiding us about Quantum algorithms.
+Grateful to the mentors for guiding us through the logic and application side of quantum algorithms. Looking forward to applying this learning ahead! 
+
+Day 2: Deep Dive into Quantum Computing 
+Continuing my journey in the Quantum Fundamentals & Advanced Algorithms Program, today’s session opened my eyes to how quantum technologies are shaping real-world applications in energy, materials, and sensing.
+ Key Insights from Day 2:
+1.Quantum Learning Roadmap
+ Understanding QKD, linear algebra foundations
+ Exploring quantum hardware & deconstructing famous algorithms (Grover,Shor,HHL)
+ Moving from copy-paste coding to true conceptual understanding
+2.Quantum Sensing for Power & Energy Systems
+ How quantum tech enables faster, more accurate, and more reliable geolocation
+ Importance of phasor measurement units (PMUs) and synchronized grid monitoring
+3.Advanced Materials for Energy Storage
+ Using quantum tools for molecular vibration analysis
+ Deep dive into Navier–Stokes equations for modelling fluid dynamics
+The more I learn, the more I realize: Quantum is not just theory — it's a powerful tool for solving critical real-world challenges like grid reliability, outages, and next-gen battery technology.
+Grateful for the opportunity to explore this cutting-edge field.
+
+---------------------------
+
+Day 3 | Quantum Computing – Quantum Fundamentals & Advanced Algorithms Program
+Day 3 focused on understanding how quantum computing connects with classical machine learning and real-world energy systems.
+Highlights from Day 3:
+1.Classical ML vs Quantum ML
+Learned how classical machine learning can often match quantum ML for many problems, while quantum computing (BQP) opens possibilities beyond classical probabilistic algorithms (BPP).
+2.Smart Grid Evolution
+ Explored key properties of modern smart grids, including:
+ • Diverse energy sources
+ • Increased electrification and consumption points
+ • Decentralized energy generation and resource allocation
+3.Quantum Computing for Energy Applications
+Introduced to Quantum Machine Learning for energy demand forecasting, showing how quantum approaches can support efficient planning and grid optimization.
+Key Takeaway:
+Quantum computing is not about replacing classical methods—but augmenting them to solve complex, data-intensive energy challenges more effectively.
+Grateful to continue learning and exploring how quantum technologies can shape the future of energy systems. 
